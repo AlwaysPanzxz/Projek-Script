@@ -1,3 +1,14 @@
 {
- "key" : "test"
+ "users": [
+  {
+   "whatsappNumber": "6282338070044",
+   "password": "kontol"
+  }
+ ],
+ "approvedUsers": [
+  {
+   "whatsappNumber": "6282338070044",
+   "token": "halo"
+  }
+ ]
 }
