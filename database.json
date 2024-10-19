@@ -1,11 +1,11 @@
 {
  "users": [
   {
-   "whatsappNumber": "6282338070044"
+   "whatsappNumber": "6282338070044",
    "password": "kontol"
   },
   {
-   "whatsappNumber": "6282226939809"
+   "whatsappNumber": "6282226939809",
    "password": "titid"
   }
  ],
@@ -15,8 +15,8 @@
    "token": "halo"
   },
   {
-   "whatsappNumber": "6282226939809"
-   "token": "titid1"
+   "whatsappNumber": "6282226939809",
+   "token": "halo2"
   }
  ]
 }
